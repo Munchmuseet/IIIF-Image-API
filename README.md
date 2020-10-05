@@ -8,7 +8,7 @@ This documents how to retrieve images from https://emunch.emuseum.no using the I
 ```
 The media ID is the number after ```dispatcher/```.
 
-See also: https://documenter.getpostman.com/view/2789837/S1ZucW54
+The API is also documented with [Postman](https://documenter.getpostman.com/view/2789837/S1ZucW54).
 
 # Image request URI syntax
 The syntax for requesting an image is ```{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}```.
